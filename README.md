@@ -29,17 +29,15 @@ I'm **Akhila Kadarla**, a **B.Tech AI & ML graduate** from KITS, Telangana, pass
 - 🌱 Currently exploring **Generative AI** and its mind-blowing possibilities
 - 🤝 **Team player** who believes the best ideas are built together
 - 🏆 CGPA: **8.13** — academic excellence meets hands-on hustle
-
 ---
+### 🧠 Prognos AI — AI-Driven Predictive Maintenance System
+> **Deep Learning | LSTM | Infosys Springboard 6.0 Internship**
 
-## 💼 Internship
-
-### 🏢 Infosys Springboard 6.0 Intern
-> **Prognos AI Project** | [springboard135-infosys-intern-oct25/prognosAI-Infosys-intern-project](https://github.com/springboard135-infosys-intern-oct25/prognosAI-Infosys-intern-project)
-
-- Selected as an **Infosys Springboard 6.0 Intern** — a prestigious industry internship program
-- Worked on **Prognos AI**, an AI-powered prognostics and health management project
-- Gained hands-on industry experience in building real-world AI solutions
+- Built an AI-based predictive maintenance system to estimate **Remaining Useful Life (RUL)** of industrial machinery using multivariate time-series sensor data
+- Used **NASA CMAPSS dataset** with LSTM/GRU deep learning models for sequential pattern recognition and failure prediction
+- Engineered rolling window sequences, computed RUL targets, and defined risk thresholds to trigger **maintenance alerts** (warning & critical zones)
+- Developed an interactive **Streamlit dashboard** to visualize RUL trends, predictions, and alert zones
+- Tech: `Python` `TensorFlow/Keras` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `Matplotlib`
 
 ---
 
