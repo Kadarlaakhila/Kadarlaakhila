@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kadarlaakhila&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
@@ -30,21 +34,68 @@ I'm **Akhila Kadarla**, a final-year **B.Tech AI & ML student** from KITS, Telan
 
 ## 🛠️ Tech Stack
 
+**Languages**
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+</div>
+
+**AI / ML / DL**
+<div align="center">
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+**Tools & Platforms**
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-kadarla-406713362)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kadarlaakhila)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadarlaakhila362@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kadarlaakhila&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadarlaakhila&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kadarlaakhila&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kadarlaakhila&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -97,33 +148,6 @@ I'm **Akhila Kadarla**, a final-year **B.Tech AI & ML student** from KITS, Telan
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kadarlaakhila&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadarlaakhila&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kadarlaakhila&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhila-kadarla-406713362)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kadarlaakhila)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadarlaakhila362@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kadarlaakhila&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-  <br/><br/>
   <i>✨ "The best way to predict the future is to build it with AI." ✨</i>
 </div>
