@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Python+Developer+%7C+Deep+Learning+Explorer;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student+%F0%9F%A4%96;Python+Developer+%7C+Deep+Learning+Explorer;Infosys+Springboard+6.0+Intern+%F0%9F%92%BC;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,13 +22,24 @@
 
 ## 🙋‍♀️ About Me
 
-I'm **Akhila Kadarla**, a final-year **B.Tech AI & ML student** from KITS, Telangana, passionate about crafting intelligent systems that bridge the gap between data and real-world impact. I love diving deep into **Machine Learning**, **Deep Learning**, and **Generative AI** — and I'm always hungry to learn what's next.
+I'm **Akhila Kadarla**, a **B.Tech AI & ML graduate** from KITS, Telangana, passionate about crafting intelligent systems that bridge the gap between data and real-world impact. I love diving deep into **Machine Learning**, **Deep Learning**, and **Generative AI** — and I'm always hungry to learn what's next.
 
 - 🤖 **AI/ML enthusiast** building projects that actually *do* something cool
 - 🧠 **Deep Learning nerd** — CNNs, action recognition, and beyond
 - 🌱 Currently exploring **Generative AI** and its mind-blowing possibilities
 - 🤝 **Team player** who believes the best ideas are built together
-- 🏆 CGPA: **7.95** and climbing — academic excellence meets hands-on hustle
+- 🏆 CGPA: **8.13** — academic excellence meets hands-on hustle
+
+---
+
+## 💼 Internship
+
+### 🏢 Infosys Springboard 6.0 Intern
+> **Prognos AI Project** | [springboard135-infosys-intern-oct25/prognosAI-Infosys-intern-project](https://github.com/springboard135-infosys-intern-oct25/prognosAI-Infosys-intern-project)
+
+- Selected as an **Infosys Springboard 6.0 Intern** — a prestigious industry internship program
+- Worked on **Prognos AI**, an AI-powered prognostics and health management project
+- Gained hands-on industry experience in building real-world AI solutions
 
 ---
 
@@ -102,6 +113,13 @@ I'm **Akhila Kadarla**, a final-year **B.Tech AI & ML student** from KITS, Telan
 
 ## 🚀 Projects
 
+### 🧠 Prognos AI — Infosys Springboard 6.0
+> **Generative AI | Industry Internship Project**
+
+- Built as part of the **Infosys Springboard 6.0** internship program
+- An AI-powered prognostics system leveraging machine learning for intelligent predictions
+- Collaborated with a team in a real-world industry environment
+
 ### 🕺 Human Action Recognition using Depth Maps and Postures
 > **Deep Learning | 2025–2026**
 
@@ -142,7 +160,7 @@ I'm **Akhila Kadarla**, a final-year **B.Tech AI & ML student** from KITS, Telan
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech – AI & ML | Kamala Institute of Technology and Science (KITS), Telangana | 2022–2026 | CGPA: **7.95** |
+| B.Tech – AI & ML | Kamala Institute of Technology and Science (KITS), Telangana | 2022–2026 | CGPA: **8.13** |
 | Intermediate (MPC) | Alphores Junior College, Karimnagar | 2020–2022 | **85.8%** |
 | SSC | St. John's High School | 2019–2020 | GPA: **9.8** |
 
